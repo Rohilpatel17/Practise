@@ -10,8 +10,15 @@ namespace Practice
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("Hello World");
             
+
+            Console.WriteLine("Hola mundo");
+            for (int i = 0; i < 4;i++ )
+            {
+                Console.Write("Rohil ");
+            }
         }
     }
 }
